@@ -79,8 +79,8 @@ const DataProtectionPage = () => (
         <p>
           We reserve the right to change this privacy policy. The current
           version of the privacy policy is available at{" "}
-          <a href="http://projectmanagement.netlify.com/data-protection">
-            http://projectmanagement.netlify.com/data-protection
+          <a href="https://projectmanagement.netlify.com/data-protection">
+            https://projectmanagement.netlify.com/data-protection
           </a>
           .
         </p>
@@ -105,8 +105,8 @@ const DataProtectionPage = () => (
         <p>
           We reserve the right to change this privacy policy. The current
           version of the privacy policy is available at{" "}
-          <a href="http://projectmanagement.netlify.com/data-protection">
-            http://projectmanagement.netlify.com/data-protection
+          <a href="https://projectmanagement.netlify.com/data-protection">
+            https://projectmanagement.netlify.com/data-protection
           </a>
           .
         </p>
