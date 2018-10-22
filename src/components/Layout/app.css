@@ -1,0 +1,35 @@
+a {
+  color: #d32f2f;
+}
+
+a:hover {
+  color: #333333;
+}
+
+svg {
+  height: 1em;
+  vertical-align: -0.125em;
+}
+
+
+:not(pre) > code[class*="language-"] {
+  white-space: nowrap;
+}
+
+.blur-up .lazyload,
+.blur-up .lazyloaded {
+	filter: blur(5px);
+	transition: filter 400ms;
+}
+
+.lazyloaded {
+	filter: blur(0);
+}
+
+picture {
+  display: flex;
+  flex-direction: column;
+  display: content;
+  background: #484848;
+  width: 100%;
+}
