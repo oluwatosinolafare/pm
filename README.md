@@ -12,6 +12,6 @@ Fork and then:
 ```sh
 cd pm
 yarn install or npm install
-yarn add global gatsby-cli or nmp install -g gatsby-cli
+yarn add global gatsby-cli or npm install -g gatsby-cli
 gatsby develop
 ```
